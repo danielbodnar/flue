@@ -31,7 +31,7 @@
 	},
 	"dependencies": {
 		"@grammyjs/types": "3.27.3",
-		"hono": "4.12.22"
+		"hono": "4.12.27"
 	},
 	"devDependencies": {
 		"@cloudflare/vitest-pool-workers": "0.16.15",

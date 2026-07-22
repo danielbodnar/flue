@@ -31,7 +31,7 @@
 	},
 	"dependencies": {
 		"discord-api-types": "0.38.48",
-		"hono": "4.12.22"
+		"hono": "4.12.27"
 	},
 	"devDependencies": {
 		"@cloudflare/vitest-pool-workers": "0.16.15",
